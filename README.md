@@ -1,6 +1,13 @@
 # Full Stack Food Delivery MERN Application
 
-This repository contains the code for a Full Stack Food Delivery MERN Application. The application is divided into three main parts:
+This repository contains the code for a Full Stack Food Delivery MERN Application. 
+
+The project is built using the following technologies:
+- **MongoDB:** For the database.
+- **React:** For the frontend.
+- **Node.js and Express:** For the backend server.
+
+The application is divided into three main parts:
 
 ## Admin
 - Add and remove food items.
@@ -13,11 +20,6 @@ This repository contains the code for a Full Stack Food Delivery MERN Applicatio
 - Manages the application's data and business logic.
 - Uses MongoDB as the database.
 - Utilizes Node.js and Express for the backend server.
-
-The project is built using the following technologies:
-- **MongoDB:** For the database.
-- **React:** For the frontend.
-- **Node.js and Express:** For the backend server.
 
 ## Images
 
